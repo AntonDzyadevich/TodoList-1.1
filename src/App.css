@@ -22,4 +22,10 @@
 .is-done {
   opacity: 0.5;
 }
+.Todolist  h3 {
 
+  display: inline;
+}
+.Todolist .remBut {
+  margin-left: 10px;
+}
